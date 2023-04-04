@@ -5,6 +5,7 @@
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
+ <a href="#-css-loader">CSS Loader</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
@@ -16,15 +17,17 @@ Olá, seja muito bem vinda(o)!
 
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender HTML e CSS, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
 
-<br>
-
-## CSS Loader
-
 📚 Aproveite o código desse exercício
 
 👩‍💻 Refaça do seu jeito
 
 😉 Se tiver qualquer dúvida, me contate
+
+<br>
+
+## <img align="center" alt="Ana-JavaScript" height="40" src="https://cdn-icons-png.flaticon.com/512/3308/3308160.png"> CSS Loader
+
+https://user-images.githubusercontent.com/31097110/229892261-0f15848f-2b8f-471f-850f-43b9386531df.mp4
 
 <br>
 
