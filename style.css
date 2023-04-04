@@ -1,6 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #080C59,#6d00db, #F2507B);
+}
+
+.card {
+    position: relative;
+    width: 350px;
+    height: 250px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 35px 80px rgba(0,0,0,0.15);
+    transition: 0.5s;
+}
+
+.card h1 {
+    color: #080C59;
+    text-align: center;
+}
+
 .loader {
-    border: 16px solid #f3f3f3;
-    border-top: 16px solid #3498db;
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    border: 16px solid #d9d9d9;
+    border-top: 16px solid #6d00db;
     border-radius: 50%;
     width: 120px;
     height: 120px;
